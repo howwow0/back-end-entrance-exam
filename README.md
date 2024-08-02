@@ -1,7 +1,7 @@
 # Weather API с кешированием
 
 Этот проект предоставляет простой Weather API с функцией кеширования в памяти. API позволяет получать данные о погоде для указанного города, очищать кеш и изменять размер кеша.
-[[OpenWeatherMap] (https://softonit.ru/)](https://openweathermap.org/) - api для обращения.
+[OpenWeatherMap](https://openweathermap.org/) - api для обращения.
 
 ## Особенности
 
