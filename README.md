@@ -19,16 +19,16 @@
 1. **Клонируйте репозиторий:**
    ```sh
    git clone https://github.com/your-username/weather-api-with-cache.git
-   cd weather-api-with-cache
+   cd weather-api-with-cache ```
 2. **Установите зависимости:**
-```sh
-npm install
+   ```sh
+   npm install
 3. **Установите ваш API ключ OpenWeather(не обязательно, стоит мой apiKey):**
-Замените your_api_key_here в файле services/weatherService.js на ваш реальный API ключ OpenWeather. 
+   Замените your_api_key_here в файле services/weatherService.js на ваш реальный API ключ OpenWeather. 
 4. **Запустите сервер:**
-```sh
-npm start
+   ```sh
+   npm start
 5. **Получите доступ к документации API:**
-Откройте ваш браузер и перейдите по адресу http://localhost:3000/api-docs, чтобы просмотреть документацию Swagger UI.
+   Откройте ваш браузер и перейдите по адресу http://localhost:3000/api-docs, чтобы просмотреть документацию Swagger UI.
 
-PS: "source": "api" и "source": "cache" в ответе означают соответственно что данные получены из api или из кэша
+   PS: "source": "api" и "source": "cache" в ответе означают соответственно что данные получены из api или из кэша
